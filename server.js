@@ -190,7 +190,7 @@ const addEmployees = () => {
                     const query = 'insert into employee (first_name, last_name, role_id, manager_id) values (?, ?, ?, ?)'
                     connection.query(query, newEmployee, (error, response) => {
                         if (error) throw error;
-                        console.log(`Added role!`);
+                        console.log(`Added employee!`);
                         init();
                     })
 
