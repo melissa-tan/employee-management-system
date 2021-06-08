@@ -70,7 +70,7 @@ Employee Management System is a CLI application where a business owner or employ
 
 This is a full video tutorial on how to use the program! <br>
 Please click on thumbnail to view video. </br>
-	[![Employee Management System Full Demo](http://img.youtube.com/vi/dFRDGqj7sGQ/0.jpg)](http://www.youtube.com/watch?v=dFRDGqj7sGQ "Employee Management System Full Demo-Click to Watch!")
+	[![Employee Management System Full Demo](http://img.youtube.com/vi/UAsQzuNNvoA/0.jpg)](http://www.youtube.com/watch?v=UAsQzuNNvoA "Employee Management System Full Demo-Click to Watch!")
 
 ## Contribution
 #### Contributors

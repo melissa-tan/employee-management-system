@@ -99,7 +99,7 @@ const addDepartments = () => {
             message: 'What is the new department\'s name?'
         }
     ]).then(response => {
-        connection.query('insert into department(name) value ?', response.name, (error, response) => {
+        connection.query('insert into department (name) value (?)', response.name, (error, response) => {
             if (error) throw error;
             console.log(`New department added!`);
             init();
